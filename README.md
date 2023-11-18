@@ -31,7 +31,14 @@ Data analysis includes:
 ![3](https://github.com/AyushSharma97666/python_1/assets/110818513/95e3a81f-bfdd-4daf-9f8e-31e76c7db36d)
 
 
-There are lot of insights in power bi dashboard you can refer and explore the telagana state data 
+There are lot of insights in Power Bi  dashboard you can refer and explore the telagana state data 
+
+![4](https://github.com/AyushSharma97666/python_1/assets/110818513/700e9c66-a22c-487c-a0db-124ccf5a75a9)
+
+![5](https://github.com/AyushSharma97666/python_1/assets/110818513/7175ed84-ae0f-4592-89b0-62e4994fac5a)
+
+![6](https://github.com/AyushSharma97666/python_1/assets/110818513/ffcc5ef6-9380-461a-83ca-0bc6b925712f)
+
 
 These insights can steer policymakers, businesses, and investors towards informed decisions to bolster Telangana's growth.
 
