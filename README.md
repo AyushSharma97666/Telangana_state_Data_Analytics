@@ -18,15 +18,18 @@ Data analysis includes:
 1. Revenue from estamps aligns closely with document registration revenue.
 
 ![2](https://github.com/AyushSharma97666/python_1/assets/110818513/9ccbe164-9d17-40cf-b52e-014c31cf2d68)
+
 2. Top 5 Districts with highest document registration growth (2019-2022):
    - Mulugu 170%, Adilabad 122%, Karimnagar 92%, Mancherial 91%, Medchal Malkajgiri 91%
 
 ![1](https://github.com/AyushSharma97666/python_1/assets/110818513/033e9eeb-584d-4af2-8320-dd5e5213dce6)
+
 3. Top 3 and bottom 3 districts for vehicle sales growth (FY 2022 vs. FY 2021):
    - Bottom: Nirmal -34%, Jagtial -37%, Warangal -44%
    - Top: Rangareddy 12.52%, Hyderabad 4.75%, Karimnagar 4.42%
 
 ![3](https://github.com/AyushSharma97666/python_1/assets/110818513/95e3a81f-bfdd-4daf-9f8e-31e76c7db36d)
+
 
 There are lot of insights in power bi dashboard you can refer and explore the telagana state data 
 
