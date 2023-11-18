@@ -1,16 +1,40 @@
 # Telangana_State_Data_Analytics
 
-Excited to share comprehensive insights from my analysis of Telangana's data, focusing on Stamp Registration, Transportation, and iPass. Unveiling significant aspects driving the state's growth and development.
+Excited to present the outcomes of an extensive analysis of Telangana's data, focusing on Stamp Registration, Transportation, and iPass departments. These findings illuminate the state's exceptional progress and development.
 
-🔍 **PROBLEM** 🔍
-Telangana's growth potential is evident, yet leveraging data for informed decision-making remains critical. This analysis delves deep into Stamp Registration, Transportation, and iPass datasets to extract invaluable insights.
+🔍 **PROBLEM STATEMENT** 🔍  
+Telangana's growth potential is evident, but leveraging data for informed decisions is pivotal. This analysis delves into Stamp Registration, Transportation, and iPass data, revealing invaluable insights.
 
-🔧 **TOOLS & APPROACH** 🔧
-Leveraged Power BI for robust data analysis and visualization, fostering a holistic understanding of Telangana's economic landscape.
+🔧 **TOOLS** 🔧  
+Utilized Power BI for comprehensive data analysis and visualization, providing deeper insights into Telangana's economic landscape.
 
-📊 **FINDINGS & SOLUTIONS** 📊
-- 🏛 **Stamp Registration:** Examined revenue from stamp registration and document registration (FY 2019-2022).
-- 🚗 **Transportation:** Uncovered insights on vehicle sales, vehicle classes, and fuel types (2019-2022).
-- 📑 **iPass:** Analyzed investments across sectors and districts, along with district-wise employee distribution.
-These insights serve as a compass for policymakers, businesses, and investors, aiding informed decisions to further propel Telangana's growth.
-# Telangana_state_Data_Analytics
+📊 **ANALYSIS** 📊  
+Data analysis includes:
+- 🏛 **Stamp Registration:** Revenue comparison between estamps and document registration from FY 2019-2022.
+- 🚗 **Transportation:** Insights on vehicle sales, types, and fuel variation during 2019-2022.
+- 📑 **iPass:** Investment across sectors and districts, along with district-wise employee counts in different sectors.
+
+**DATA INSIGHTS**  
+1. Revenue from estamps aligns closely with document registration revenue.
+
+![2](https://github.com/AyushSharma97666/python_1/assets/110818513/9ccbe164-9d17-40cf-b52e-014c31cf2d68)
+2. Top 5 Districts with highest document registration growth (2019-2022):
+   - Mulugu 170%, Adilabad 122%, Karimnagar 92%, Mancherial 91%, Medchal Malkajgiri 91%
+
+![1](https://github.com/AyushSharma97666/python_1/assets/110818513/033e9eeb-584d-4af2-8320-dd5e5213dce6)
+3. Top 3 and bottom 3 districts for vehicle sales growth (FY 2022 vs. FY 2021):
+   - Bottom: Nirmal -34%, Jagtial -37%, Warangal -44%
+   - Top: Rangareddy 12.52%, Hyderabad 4.75%, Karimnagar 4.42%
+
+![3](https://github.com/AyushSharma97666/python_1/assets/110818513/95e3a81f-bfdd-4daf-9f8e-31e76c7db36d)
+
+There are lot of insights in power bi dashboard you can refer and explore the telagana state data 
+
+These insights can steer policymakers, businesses, and investors towards informed decisions to bolster Telangana's growth.
+
+🙏 **SPECIAL THANKS** 🙏  
+Gratitude to the codebasics team and Telangana government for this opportunity to learn and showcase our capabilities through these projects.
+
+This analysis has been an incredible learning journey, and I welcome your thoughts and feedback.
+
+Thank you.
