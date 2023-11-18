@@ -32,6 +32,7 @@ Data analysis includes:
 
 
 There are lot of insights in Power Bi  dashboard you can refer and explore the telagana state data 
+![7](https://github.com/AyushSharma97666/python_1/assets/110818513/dbca9e5e-d0ec-4dbe-805a-09d937afa2a0)
 
 ![4](https://github.com/AyushSharma97666/python_1/assets/110818513/700e9c66-a22c-487c-a0db-124ccf5a75a9)
 
