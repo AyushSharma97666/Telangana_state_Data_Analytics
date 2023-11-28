@@ -1,4 +1,4 @@
-# Telangana_State_Data_Analytics
+# Telangana State Data Analytics
 
 Excited to present the outcomes of an extensive analysis of Telangana's data, focusing on Stamp Registration, Transportation, and iPass departments. These findings illuminate the state's exceptional progress and development.
 
